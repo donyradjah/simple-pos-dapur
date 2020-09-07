@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "134977409802",
+    "firebase_url": "https://najieb-pos.firebaseio.com",
+    "project_id": "najieb-pos",
+    "storage_bucket": "najieb-pos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134977409802:android:f6b09077f21677127a20f3",
+        "android_client_info": {
+          "package_name": "com.codetalenta.dapur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134977409802-fle7h30pu8nm0krto67d2oggf7h0vvaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP7COBj33P4OW4zb24S6ILZbmQcChQZsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134977409802-fle7h30pu8nm0krto67d2oggf7h0vvaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134977409802:android:9340bac07d99126b7a20f3",
+        "android_client_info": {
+          "package_name": "com.codetalenta.kasir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134977409802-fle7h30pu8nm0krto67d2oggf7h0vvaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP7COBj33P4OW4zb24S6ILZbmQcChQZsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134977409802-fle7h30pu8nm0krto67d2oggf7h0vvaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134977409802:android:409deae2c34231997a20f3",
+        "android_client_info": {
+          "package_name": "com.codetalenta.meja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134977409802-fle7h30pu8nm0krto67d2oggf7h0vvaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP7COBj33P4OW4zb24S6ILZbmQcChQZsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134977409802-fle7h30pu8nm0krto67d2oggf7h0vvaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

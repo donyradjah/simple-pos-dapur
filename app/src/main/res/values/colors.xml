@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#21bf73</color>
+    <color name="colorPrimaryDark">#07C86B</color>
+    <color name="colorAccent">#fd5e53</color>
+
+    <color name="app_background_color">#FAFAFA</color>
+    <color name="divider_color">#C7C7CC</color>
+
+    <color name="item_selected_background_color">#C7C7CC</color>
+    <color name="image_placeholder_background_color">#C7C7CC</color>
+
+
+    <color name="belum_bayar">#fd5e53</color>
+    <color name="batal">#878787</color>
+    <color name="proses">#FFEB3B</color>
+    <color name="selesai">#21bf73</color>
+</resources>
